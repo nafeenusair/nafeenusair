@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @nafeenusair
 - 👀 I’m interested in Coding and Gaming
-- 🌱 I’m currently learning C/C++ Porgarmming Language
+- 🌱 I’m currently learning C/C++ 
 - 💞️ I’m looking to collaborate on
-- 📫 How to reach me through Facebook
+- 📫 You can reach me through nafee.nusair2017@gmail.com
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I'm a newbie
 
