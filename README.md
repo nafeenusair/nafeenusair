@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nafeenusair&label=Profile%20views&color=0e75b6&style=flat" alt="nafeenusair" /> </p>
 
-- 🌱 I’m currently learning **C/C++/Python**
+- 🌱 I’m currently learning **C/C++/Java**
 
 - 💬 Ask me about **Computer**
 
