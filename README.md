@@ -7,7 +7,7 @@
 
 - 💬 Ask me about **Computer**
 
-- 📫 How to reach me **nafee.nusair2017@gmail.com**
+- 📫 How to reach me **quazinusair@gmail.com**
 
 - ⚡ Fun fact **I am a newbie**
 
