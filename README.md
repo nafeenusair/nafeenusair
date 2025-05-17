@@ -3,8 +3,6 @@
 
 - 🌱 I’m currently learning **Java, Python**
 
-- 👨‍💻 All of my projects are available at [github.com/nafeenusair?tab=repositories](github.com/nafeenusair?tab=repositories)
-
 - 💬 Ask me about **rn? nothing.**
 
 - 📫 How to reach me **quazinusair@gmail.com**
@@ -14,6 +12,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/linkedin.com/in/nafeenusair" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin.com/in/nafeenusair" height="30" width="40" /></a>
+<a href="https://fb.com/facebook.com/nusair.nafee" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="facebook.com/nusair.nafee" height="30" width="40" /></a>
 <a href="https://codeforces.com/profile/codeforces.com/profile/nafeenusair" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="codeforces.com/profile/nafeenusair" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/leetcode.com/u/nafeenusair/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="leetcode.com/u/nafeenusair/" height="30" width="40" /></a>
 </p>
