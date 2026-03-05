@@ -2,11 +2,8 @@
 <h3 align="center">Passionate CSE student learning and building cool things with code.</h3>
 
 - 🌱 I’m currently learning **Java, Python**
-
 - 💬 Ask me about **rn? nothing.**
-
 - 📫 How to reach me **quazinusair@gmail.com**
-
 - 📄 Know about my experiences [hhzz](hhzz)
 
 <h3 align="left">Connect with me:</h3>
