@@ -1,10 +1,9 @@
-<h1 align="center">Hi 👋, I'm Quazi Nafee Nusair</h1>
+<h1 align="center">Hi, I'm Quazi Nafee Nusair</h1>
 <h3 align="center">Passionate CSE student learning and building cool things with code.</h3>
 
-- 🌱 I’m currently learning **Java, Python**
+- 🌱 I’m currently learning **Django, SQL, AI Agent SDK**
 - 💬 Ask me about **rn? nothing.**
 - 📫 How to reach me **quazinusair@gmail.com**
-- 📄 Know about my experiences [hhzz](hhzz)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
